@@ -1,1 +1,3 @@
-Haskell
+# Haskell
+
+Some Haskell personal projects
